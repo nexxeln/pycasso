@@ -23,7 +23,7 @@ def fade_colour(start_colour, end_colour, factor: float):
 def generate_rectangle_art(path: str):
     print("Generating Rectangle Art!")
     actual_size = 512
-    scale_factor = 2
+    scale_factor = 1
     image_size = actual_size * scale_factor
     image_bg_colour = (0, 0, 0)
     start_colour = random_colour()
