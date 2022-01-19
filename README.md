@@ -1,2 +1,2 @@
 # pycasso
-generative art using python
+beautiful things using python
