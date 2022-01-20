@@ -1,2 +1,2 @@
 # pycasso
-beautiful things using python
+image processing and generation stuff using python
