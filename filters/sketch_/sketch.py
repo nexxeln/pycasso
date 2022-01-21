@@ -1,6 +1,4 @@
 import cv2
-from cv2 import invert
-
 
 def sketch(path: str):
     img = cv2.imread(path)
